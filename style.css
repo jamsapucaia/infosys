@@ -1,7 +1,5 @@
 html {
     background-image: url('01.jpg');
-    
-    image-rendering: optimizeSpeed;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
