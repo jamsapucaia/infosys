@@ -1,11 +1,11 @@
-body {
-    background-color: rgb(255, 255, 255);
+html {
     background-image: url('01.jpg');
+    
+    image-rendering: optimizeSpeed;
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
-    backdrop-filter: blur(8px) brightness(.5);
-    padding-left: 20px;
+    padding-left: 2%;
     padding: 5%;
 }
 
